@@ -107,4 +107,7 @@ Projenin kurulumu
 • Tebrikler, uygulamayı başarıyla çalıştırdınız!
 
 
-![alt text](https://github.com/brknkosuncu/M2M-MobileApp/blob/main/server/src/helpers/images/login_page.png?raw=true "resim 1")
+![alt text](https://github.com/brknkosuncu/M2M-MobileApp/blob/main/server/src/helpers/images/login_page.png "resim 1")
+![alt text](https://github.com/brknkosuncu/M2M-MobileApp/blob/main/server/src/helpers/images/main_page.png "resim 2")
+![alt text](https://github.com/brknkosuncu/M2M-MobileApp/blob/main/server/src/helpers/images/Screenshot_1660293956.png "resim 3")
+![alt text](https://github.com/brknkosuncu/M2M-MobileApp/blob/main/server/src/helpers/images/mentor_page.png "resim 4")
