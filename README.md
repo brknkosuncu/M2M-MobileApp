@@ -106,3 +106,5 @@ Projenin kurulumu
 
 • Tebrikler, uygulamayı başarıyla çalıştırdınız!
 
+
+![alt text](https://github.com/brknkosuncu/M2M-MobileApp/blob/main/server/src/helpers/images/login_page.png?raw=true "resim 1")
