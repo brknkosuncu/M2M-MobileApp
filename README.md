@@ -16,10 +16,9 @@ The purpose of creating this project; to enable mentees to find their mentors.
 
  ## Used technologies:
 * Middle tier: ExpressJS
-* Server platform: NodeJS with Sequelize
+* Server platform: NodeJS (Sequelize) 
 * Database: PostgreSQL
 * HTML Template Engine: Visual Studio Code
-* CSS Framework: Bootstrap, Reactstrap etc.
 * Programming Language: Javascript, Dart
 * Version Control: Git
 * Communication: REST API
@@ -69,7 +68,7 @@ Bu projenin oluşturulmasındaki amaç; menteelerin mentorlarını bulmalarını
 
 ## Kullanılan Teknolojiler:
 * Orta katman: ExpressJS
-* Sunucu platformu: NodeJS
+* Sunucu platformu: NodeJS (Sequelize) 
 * Veritabanı: PostgreSQL
 * HTML Şablon Motoru: Visual Studio Code
 * Programlama Dili: Javascript, Dart
