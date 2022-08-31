@@ -52,7 +52,7 @@ Project setup
 
 • Congrulations, you started application successfully!
 
-# VETAPP
+# M2M
 
 Bu projenin oluşturulmasındaki amaç; menteelerin mentorlarını bulmalarını sağlamak.
 
